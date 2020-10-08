@@ -14,8 +14,6 @@ sections:
   label: Pages
   create: all
   match: "*.md"
-- type: heading
-  label: Documentation
 - type: document
   path: README.md
   label: README
